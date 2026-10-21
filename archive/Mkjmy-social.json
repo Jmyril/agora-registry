@@ -1,139 +1,146 @@
 {
   "agora-mirror": "v1",
-  "prev": "f78c79ac15ff404e2c13162f47e0832700e7c58e7ab500cd2c69c4a60a288cff",
-  "archived_at": "2026-10-21T02:02:41.613927457Z",
-  "posts": {
-    "11": {
-      "created": "2026-10-21T02:02:16Z",
-      "updated": "2026-10-21T02:02:17Z",
-      "hash": "ebb4364911225099e8f94c23c33b24ea42e18fa961b9b7641d2e8050e1e438a8",
-      "status": "live",
-      "body": "noi dung goc de test can thiep",
-      "moderation": {
-        "moderated_at": "0001-01-01T00:00:00Z"
-      }
-    },
-    "6": {
-      "created": "2026-09-02T14:24:49Z",
-      "updated": "2026-09-10T14:20:23Z",
-      "hash": "f5f43ca7ae327cb9dfcf833247f3d355d4c9dd8b4eca8d45dc87515ac2787333",
-      "status": "live",
-      "body": "# Thế Chiến Thứ Hai: Cuộc Chiến Đổi Lại Thế Giới\n\nChiến tranh thế giới thứ hai (1939–1945) là cuộc xung đột quân sự lớn nhất và đẫm máu nhất trong lịch sử nhân loại, lôi kéo hơn 30 quốc gia và gần 100 triệu người lính tham chiến.\n\n## Nguyên nhân dẫn đến chiến tranh\n\n- Hậu quả nặng nề của **Hiệp ước Versailles** (1919) và sự phẫn nộ của nước Đức.\n- Khủng hoảng kinh tế toàn cầu 1929 – 1933 dẫn đến sự trỗi dậy của chủ nghĩa phát xít.\n- Chính sách **nhân nhượng** của Anh và Pháp đối với Hitler.\n\n\u003e \"Hòa bình trong thời đại của chúng ta\" — Neville Chamberlain, 1938.\n\n## Diễn biến chính\n\n1. **1939** – Đức tấn công Ba Lan, khơi mào chiến tranh ở châu Âu.\n2. **1941** – Đức tấn công Liên Xô (Chiến dịch Barbarossa); Nhật tấn công Trân Châu Cảng.\n3. **1944** – Quân Đồng minh đổ bộ Normandy (D-Day).\n4. **1945** – Đức đầu hàng (tháng 5); Nhật đầu hàng sau hai quả bom nguyên tử (tháng 8).\n\n## Hệ quả\n\n- Khoảng 60–85 triệu người thiệt mạng.\n- Sự thành lập **Liên Hợp Quốc** (1945) để duy trì hòa bình.\n- Khởi đầu **Chiến tranh Lạnh** giữa hai siêu cường Mỹ – Liên Xô.\n\n## Bài học\n\nCuộc chiến nhắc nhở chúng ta về cái giá khủng khiếp của chiến tranh, và tầm quan trọng của ngoại giao, hòa bình và hợp tác quốc tế.",
-      "moderation": {
-        "moderated_at": "0001-01-01T00:00:00Z"
-      }
-    },
-    "7": {
-      "created": "2026-09-02T14:25:03Z",
-      "updated": "2026-09-10T14:20:21Z",
-      "hash": "54da2e73effa8d4dc51152ee59db41520e18da2705c44e2cd3a6ddf441cb80d2",
-      "status": "live",
-      "body": "# Giới Thiệu GitSocial — Mạng Xã Hội Trên GitHub Issues\n\n**GitSocial (agora)** là một dự án mạng xã hội nhẹ, nơi mọi bài đăng, bình luận và cuộc trò chuyện đều chạy ngay trên **GitHub Issues** — không cần máy chủ riêng, không cần cơ sở dữ liệu.\n\n## Ý tưởng cốt lõi\n\n- Mỗi **bài đăng** là một GitHub Issue.\n- Nội dung đầy đủ nằm trong tệp Markdown `posts/{N}.md` trong repo của người dùng.\n- **Bình luận** dùng chính cơ chế comments của GitHub.\n- Kết thúc với nhau qua một **index repo** để lập thành \"dòng thời gian\" (feed) chung.\n\n## Giao diện\n\nChương trình có một **giao diện dòng lệnh (TUI)** tối giản, chủ đạo là nền tối đơn sắc:\n\n- Tên tác giả hiển thị trong một **pill màu** bên trái mỗi bài.\n- Nội dung Markdown được render đúng cấu trúc (tiêu đề, danh sách, trích dẫn, code block) nhưng giữ phong cách **yên tĩnh, không lòe loẹt**.\n- Code block nằm giữa hai đường kẻ ngang giúp dễ sao chép.\n\n## Vì sao nên thử?\n\n- **Không cần hạ tầng** — mọi thứ miễn phí ngay trên GitHub.\n- **Theo dõi cập nhật** từ cộng đồng chỉ qua một dòng lệnh: `agora tui`.\n- Mã nguồn nhỏ gọn, dễ mở rộng.\n\n## Bắt đầu nhanh\n\n```bash\nagora setup      # thiết lập repo \u0026 đăng ký\nagora tui        # mở giao diện xem feed\nagora post \"Tiêu đề\" -f bai-viet.md\nagora comment 1 -m \"Bình luận đầu tiên\"\n```\n\nĐây là dự án mở — cùng tham gia để xây dựng một mạng xã hội đơn giản, minh bạch và mã nguồn mở trên nền tảng GitHub.",
-      "moderation": {
-        "moderated_at": "0001-01-01T00:00:00Z"
-      }
-    },
-    "8": {
-      "created": "2026-09-10T14:24:56Z",
-      "updated": "2026-09-10T14:24:57Z",
-      "hash": "1bc2d1b19b316f31c974a8b8d0c9bbda8da2d4f756f1eac1a53788e9dfd30766",
-      "status": "deleted",
-      "body": "test strict rules",
-      "moderation": {
-        "moderated_at": "0001-01-01T00:00:00Z"
-      }
-    }
-  },
+  "archived_at": "2026-10-21T02:20:23.29467419Z",
   "comments": {
     "@5556805265#0": {
-      "created": "2026-09-06T04:08:58Z",
-      "updated": "2026-09-06T04:08:58Z",
-      "hash": "d550e754a87fe554d97a25fd79f57208945c4e73414d3bb4481dc85bc9bfb88e",
-      "status": "live",
       "body": "hay hay hay",
+      "created": "2026-09-06T04:08:58Z",
+      "hash": "d550e754a87fe554d97a25fd79f57208945c4e73414d3bb4481dc85bc9bfb88e",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T04:08:58Z"
     },
     "@5556805265#1": {
-      "created": "2026-09-06T04:08:58Z",
-      "updated": "2026-09-06T04:08:58Z",
-      "hash": "d16e7335251693a1e5fb150961e3205a746a53dcd2cdce8c466e22e1826b167f",
-      "status": "live",
       "body": "hahsf",
+      "created": "2026-09-06T04:08:58Z",
+      "hash": "d16e7335251693a1e5fb150961e3205a746a53dcd2cdce8c466e22e1826b167f",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T04:08:58Z"
     },
     "@5556805265#2": {
-      "created": "2026-09-06T04:08:58Z",
-      "updated": "2026-09-06T04:08:58Z",
-      "hash": "fb1726121527bd3a5cffda66f357a6c8b72959a782b34fdd332becab28e066e9",
-      "status": "live",
       "body": "jvefhh",
+      "created": "2026-09-06T04:08:58Z",
+      "hash": "fb1726121527bd3a5cffda66f357a6c8b72959a782b34fdd332becab28e066e9",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T04:08:58Z"
     },
     "@5559452062#0": {
-      "created": "2026-09-06T13:13:26Z",
-      "updated": "2026-09-06T13:13:26Z",
-      "hash": "097e3af319cd1e70a75e0945a830c185862af073ff7dd87685df81f07126a57e",
-      "status": "live",
       "body": "@mkjmy hhhh",
+      "created": "2026-09-06T13:13:26Z",
+      "hash": "097e3af319cd1e70a75e0945a830c185862af073ff7dd87685df81f07126a57e",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T13:13:26Z"
     },
     "@5559475405#0": {
-      "created": "2026-09-06T13:17:38Z",
-      "updated": "2026-09-06T13:17:38Z",
-      "hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
-      "status": "live",
       "body": "hello",
+      "created": "2026-09-06T13:17:38Z",
+      "hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T13:17:38Z"
     },
     "@5559475405#1": {
-      "created": "2026-09-06T13:17:38Z",
-      "updated": "2026-09-06T13:17:38Z",
-      "hash": "0f316926128d72c8828328c55418d8e2ca004bbff59d1e759e976758c6528e6f",
-      "status": "live",
       "body": "chien trnah 2",
+      "created": "2026-09-06T13:17:38Z",
+      "hash": "0f316926128d72c8828328c55418d8e2ca004bbff59d1e759e976758c6528e6f",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-06T13:17:38Z"
     },
     "@5787919019#0": {
-      "created": "2026-09-23T02:30:21Z",
-      "updated": "2026-09-23T02:30:21Z",
-      "hash": "a821c62e8104f8519d639b4c0948aece641b143f6601fa145993bb2e2c7299d4",
-      "status": "live",
       "body": "ho",
+      "created": "2026-09-23T02:30:21Z",
+      "hash": "a821c62e8104f8519d639b4c0948aece641b143f6601fa145993bb2e2c7299d4",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-09-23T02:30:21Z"
     },
     "@5979706700#0": {
-      "created": "2026-10-04T12:01:22Z",
-      "updated": "2026-10-04T12:01:22Z",
-      "hash": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6",
-      "status": "live",
       "body": "c",
+      "created": "2026-10-04T12:01:22Z",
+      "hash": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-10-04T12:01:22Z"
     },
     "@5979706700#1": {
-      "created": "2026-10-04T12:01:22Z",
-      "updated": "2026-10-04T12:01:22Z",
-      "hash": "8848f587ba9e5cc326947054eb394a4fbe0cae5036a837ceb93b3b8b224d6b9d",
-      "status": "live",
       "body": "helllo",
+      "created": "2026-10-04T12:01:22Z",
+      "hash": "8848f587ba9e5cc326947054eb394a4fbe0cae5036a837ceb93b3b8b224d6b9d",
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
-      }
+      },
+      "status": "live",
+      "updated": "2026-10-04T12:01:22Z"
     }
+  },
+  "posts": {
+    "11": {
+      "body": "noi dung bi thay doi - can thiep!\n",
+      "created": "2026-10-21T02:02:16Z",
+      "hash": "6b9ff163d06da4a8a11b6f033fe8afd8c2c056fd1e60ba45d74432dc3bcf2a0b",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "changed",
+      "updated": "2026-10-21T02:02:17Z"
+    },
+    "6": {
+      "body": "# Thế Chiến Thứ Hai: Cuộc Chiến Đổi Lại Thế Giới\n\nChiến tranh thế giới thứ hai (1939–1945) là cuộc xung đột quân sự lớn nhất và đẫm máu nhất trong lịch sử nhân loại, lôi kéo hơn 30 quốc gia và gần 100 triệu người lính tham chiến.\n\n## Nguyên nhân dẫn đến chiến tranh\n\n- Hậu quả nặng nề của **Hiệp ước Versailles** (1919) và sự phẫn nộ của nước Đức.\n- Khủng hoảng kinh tế toàn cầu 1929 – 1933 dẫn đến sự trỗi dậy của chủ nghĩa phát xít.\n- Chính sách **nhân nhượng** của Anh và Pháp đối với Hitler.\n\n\u003e \"Hòa bình trong thời đại của chúng ta\" — Neville Chamberlain, 1938.\n\n## Diễn biến chính\n\n1. **1939** – Đức tấn công Ba Lan, khơi mào chiến tranh ở châu Âu.\n2. **1941** – Đức tấn công Liên Xô (Chiến dịch Barbarossa); Nhật tấn công Trân Châu Cảng.\n3. **1944** – Quân Đồng minh đổ bộ Normandy (D-Day).\n4. **1945** – Đức đầu hàng (tháng 5); Nhật đầu hàng sau hai quả bom nguyên tử (tháng 8).\n\n## Hệ quả\n\n- Khoảng 60–85 triệu người thiệt mạng.\n- Sự thành lập **Liên Hợp Quốc** (1945) để duy trì hòa bình.\n- Khởi đầu **Chiến tranh Lạnh** giữa hai siêu cường Mỹ – Liên Xô.\n\n## Bài học\n\nCuộc chiến nhắc nhở chúng ta về cái giá khủng khiếp của chiến tranh, và tầm quan trọng của ngoại giao, hòa bình và hợp tác quốc tế.",
+      "created": "2026-09-02T14:24:49Z",
+      "hash": "f5f43ca7ae327cb9dfcf833247f3d355d4c9dd8b4eca8d45dc87515ac2787333",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "live",
+      "updated": "2026-09-10T14:20:23Z"
+    },
+    "7": {
+      "body": "# Giới Thiệu GitSocial — Mạng Xã Hội Trên GitHub Issues\n\n**GitSocial (agora)** là một dự án mạng xã hội nhẹ, nơi mọi bài đăng, bình luận và cuộc trò chuyện đều chạy ngay trên **GitHub Issues** — không cần máy chủ riêng, không cần cơ sở dữ liệu.\n\n## Ý tưởng cốt lõi\n\n- Mỗi **bài đăng** là một GitHub Issue.\n- Nội dung đầy đủ nằm trong tệp Markdown `posts/{N}.md` trong repo của người dùng.\n- **Bình luận** dùng chính cơ chế comments của GitHub.\n- Kết thúc với nhau qua một **index repo** để lập thành \"dòng thời gian\" (feed) chung.\n\n## Giao diện\n\nChương trình có một **giao diện dòng lệnh (TUI)** tối giản, chủ đạo là nền tối đơn sắc:\n\n- Tên tác giả hiển thị trong một **pill màu** bên trái mỗi bài.\n- Nội dung Markdown được render đúng cấu trúc (tiêu đề, danh sách, trích dẫn, code block) nhưng giữ phong cách **yên tĩnh, không lòe loẹt**.\n- Code block nằm giữa hai đường kẻ ngang giúp dễ sao chép.\n\n## Vì sao nên thử?\n\n- **Không cần hạ tầng** — mọi thứ miễn phí ngay trên GitHub.\n- **Theo dõi cập nhật** từ cộng đồng chỉ qua một dòng lệnh: `agora tui`.\n- Mã nguồn nhỏ gọn, dễ mở rộng.\n\n## Bắt đầu nhanh\n\n```bash\nagora setup      # thiết lập repo \u0026 đăng ký\nagora tui        # mở giao diện xem feed\nagora post \"Tiêu đề\" -f bai-viet.md\nagora comment 1 -m \"Bình luận đầu tiên\"\n```\n\nĐây là dự án mở — cùng tham gia để xây dựng một mạng xã hội đơn giản, minh bạch và mã nguồn mở trên nền tảng GitHub.",
+      "created": "2026-09-02T14:25:03Z",
+      "hash": "54da2e73effa8d4dc51152ee59db41520e18da2705c44e2cd3a6ddf441cb80d2",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "live",
+      "updated": "2026-09-10T14:20:21Z"
+    },
+    "8": {
+      "body": "test strict rules",
+      "created": "2026-09-10T14:24:56Z",
+      "hash": "1bc2d1b19b316f31c974a8b8d0c9bbda8da2d4f756f1eac1a53788e9dfd30766",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "deleted",
+      "updated": "2026-09-10T14:24:57Z"
+    }
+  },
+  "prev": "a82727c4f1c7b741a1801ceb5595fb8546e7cef367973d13125721a2988cb551",
+  "signature": {
+    "alg": "ed25519",
+    "version": 1,
+    "key_id": "d486fa5d1ea2ba6b",
+    "sig": "C3m/DV7hFvbJxaSNy3tKGV4eMQngff22bmN6F5uZ/+hZixyB5G8KyeGzKgTD+VVx0/WiBvDmpz7fk6hLiDULCA==",
+    "hash": "bfc51de708f2ac308ec5216aca2facda8f6884663f93dcd8b5cdc5c64215ebc2"
   }
 }
