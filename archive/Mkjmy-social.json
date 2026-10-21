@@ -1,6 +1,6 @@
 {
   "agora-mirror": "v1",
-  "archived_at": "2026-10-21T03:00:08.10892559Z",
+  "archived_at": "2026-10-21T03:01:38.095316306Z",
   "comments": {
     "@5556805265#0": {
       "body": "hay hay hay",
@@ -94,6 +94,16 @@
     }
   },
   "posts": {
+    "13": {
+      "body": "noi dung goc abc123",
+      "created": "2026-10-21T03:01:17Z",
+      "hash": "55020154aa0c54767d2e7a16a256bd266dc5e8e60ac3fdab55459b59b2768993",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "live",
+      "updated": "2026-10-21T03:01:18Z"
+    },
     "6": {
       "body": "# Thế Chiến Thứ Hai: Cuộc Chiến Đổi Lại Thế Giới\n\nChiến tranh thế giới thứ hai (1939–1945) là cuộc xung đột quân sự lớn nhất và đẫm máu nhất trong lịch sử nhân loại, lôi kéo hơn 30 quốc gia và gần 100 triệu người lính tham chiến.\n\n## Nguyên nhân dẫn đến chiến tranh\n\n- Hậu quả nặng nề của **Hiệp ước Versailles** (1919) và sự phẫn nộ của nước Đức.\n- Khủng hoảng kinh tế toàn cầu 1929 – 1933 dẫn đến sự trỗi dậy của chủ nghĩa phát xít.\n- Chính sách **nhân nhượng** của Anh và Pháp đối với Hitler.\n\n\u003e \"Hòa bình trong thời đại của chúng ta\" — Neville Chamberlain, 1938.\n\n## Diễn biến chính\n\n1. **1939** – Đức tấn công Ba Lan, khơi mào chiến tranh ở châu Âu.\n2. **1941** – Đức tấn công Liên Xô (Chiến dịch Barbarossa); Nhật tấn công Trân Châu Cảng.\n3. **1944** – Quân Đồng minh đổ bộ Normandy (D-Day).\n4. **1945** – Đức đầu hàng (tháng 5); Nhật đầu hàng sau hai quả bom nguyên tử (tháng 8).\n\n## Hệ quả\n\n- Khoảng 60–85 triệu người thiệt mạng.\n- Sự thành lập **Liên Hợp Quốc** (1945) để duy trì hòa bình.\n- Khởi đầu **Chiến tranh Lạnh** giữa hai siêu cường Mỹ – Liên Xô.\n\n## Bài học\n\nCuộc chiến nhắc nhở chúng ta về cái giá khủng khiếp của chiến tranh, và tầm quan trọng của ngoại giao, hòa bình và hợp tác quốc tế.",
       "created": "2026-09-02T14:24:49Z",
@@ -115,11 +125,12 @@
       "updated": "2026-10-05T01:48:32Z"
     }
   },
+  "prev": "639b849270cef726c1f1ca0e0a24da0c71fa945315e4538dec56ea7c399b5770",
   "signature": {
     "alg": "ed25519",
     "version": 1,
     "key_id": "fe2d2d76811f9a5a",
-    "sig": "SCTDW3b7LYcjlVmdzEY4Tbc4p6OMmoSPM9MVi1pRY3QdHNZ0J/CwwzxJ1W5F5i2OktleskU2UuOMC/3Ddz4MDQ==",
-    "hash": "b18727d12c1cc3e15f472a40135a76f00223769af15960953f347cb226ba357b"
+    "sig": "w3qRFdE8CH4fhFOgZZ+syPDPoKYD4mp5bhbg5yXAPdlst7gtFt3VBFSW5jGhiB5iiiYvhabI5iWfJV8Pym9xCg==",
+    "hash": "a528a7ec39325fb653932483d7c09bda842a42441990aff9613fac2baa571f11"
   }
 }
