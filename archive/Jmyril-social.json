@@ -1,6 +1,6 @@
 {
   "agora-mirror": "v1",
-  "archived_at": "2026-10-21T03:05:58.551410042Z",
+  "archived_at": "2026-10-21T03:09:32.041476083Z",
   "comments": {
     "@5556805265#0": {
       "body": "hay hay hay",
@@ -101,7 +101,7 @@
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
       },
-      "status": "live",
+      "status": "deleted",
       "updated": "2026-10-21T03:01:18Z"
     },
     "14": {
@@ -111,8 +111,18 @@
       "moderation": {
         "moderated_at": "0001-01-01T00:00:00Z"
       },
-      "status": "live",
+      "status": "deleted",
       "updated": "2026-10-21T03:03:57Z"
+    },
+    "15": {
+      "body": "noi dung goc xyz",
+      "created": "2026-10-21T03:09:13Z",
+      "hash": "ad797d92bcfde2fd047f3a74eb840aa3aa94df7d347ac95d7d2355cb1f57a658",
+      "moderation": {
+        "moderated_at": "0001-01-01T00:00:00Z"
+      },
+      "status": "live",
+      "updated": "2026-10-21T03:09:14Z"
     },
     "6": {
       "body": "# Thế Chiến Thứ Hai: Cuộc Chiến Đổi Lại Thế Giới\n\nChiến tranh thế giới thứ hai (1939–1945) là cuộc xung đột quân sự lớn nhất và đẫm máu nhất trong lịch sử nhân loại, lôi kéo hơn 30 quốc gia và gần 100 triệu người lính tham chiến.\n\n## Nguyên nhân dẫn đến chiến tranh\n\n- Hậu quả nặng nề của **Hiệp ước Versailles** (1919) và sự phẫn nộ của nước Đức.\n- Khủng hoảng kinh tế toàn cầu 1929 – 1933 dẫn đến sự trỗi dậy của chủ nghĩa phát xít.\n- Chính sách **nhân nhượng** của Anh và Pháp đối với Hitler.\n\n\u003e \"Hòa bình trong thời đại của chúng ta\" — Neville Chamberlain, 1938.\n\n## Diễn biến chính\n\n1. **1939** – Đức tấn công Ba Lan, khơi mào chiến tranh ở châu Âu.\n2. **1941** – Đức tấn công Liên Xô (Chiến dịch Barbarossa); Nhật tấn công Trân Châu Cảng.\n3. **1944** – Quân Đồng minh đổ bộ Normandy (D-Day).\n4. **1945** – Đức đầu hàng (tháng 5); Nhật đầu hàng sau hai quả bom nguyên tử (tháng 8).\n\n## Hệ quả\n\n- Khoảng 60–85 triệu người thiệt mạng.\n- Sự thành lập **Liên Hợp Quốc** (1945) để duy trì hòa bình.\n- Khởi đầu **Chiến tranh Lạnh** giữa hai siêu cường Mỹ – Liên Xô.\n\n## Bài học\n\nCuộc chiến nhắc nhở chúng ta về cái giá khủng khiếp của chiến tranh, và tầm quan trọng của ngoại giao, hòa bình và hợp tác quốc tế.",
@@ -135,11 +145,12 @@
       "updated": "2026-10-05T01:48:32Z"
     }
   },
+  "prev": "9a8458ec5a4178949e84fc6dc93aa91d4a76b097cf227059659a79148ffdda1b",
   "signature": {
     "alg": "ed25519",
     "version": 1,
     "key_id": "fe2d2d76811f9a5a",
-    "sig": "1aPS7tXh7l4MPesXRFA0k3eTFlTy9oRY0fIlycAd4oShiTy9tjCCsJQ666Djw4slWD8bVhtVuzFkQgt1QFx6Cg==",
-    "hash": "7e8cbb3a0ac3d230d2f2d90cede64e64c5a7ceb4d0ab949925017a7ed3591b15"
+    "sig": "PK/jeZEZyfbCv70f6/t8HxPGN+IQ7boSuwBGEpy26kBF1b1e/b8q5pC4jTrax7uuGlQRr1rnf5VhVccJYF7LCw==",
+    "hash": "2872480a89428253399b6f1c0adbab01cdd8a19aa3bace8c686e38d7a56c757b"
   }
 }
